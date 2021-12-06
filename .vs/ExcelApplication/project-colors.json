@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "653cf16b-a363-4e36-8ad7-53495d6d5d65": {
+      "ProjectGuid": "653cf16b-a363-4e36-8ad7-53495d6d5d65",
+      "DisplayName": "UnitTestCalculator",
+      "ColorIndex": 0
+    },
+    "275431e9-dc2a-464c-b0e3-433f00ae6fd3": {
+      "ProjectGuid": "275431e9-dc2a-464c-b0e3-433f00ae6fd3",
+      "DisplayName": "ExcelApplication",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,38 @@
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\UnitTestCalculator.dll
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\UnitTestCalculator.pdb
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\ExcelApplication.exe
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\Antlr4.Runtime.dll
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\ExcelApplication.pdb
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\ExcelApplication.exe.config
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Nika\ExcelApplication\UnitTestCalculator\bin\Debug\Antlr4.Runtime.xml
+D:\Nika\ExcelApplication\UnitTestCalculator\obj\Debug\UnitTestCalculator.csproj.AssemblyReference.cache
+D:\Nika\ExcelApplication\UnitTestCalculator\obj\Debug\UnitTestCalculator.csproj.CoreCompileInputs.cache
+D:\Nika\ExcelApplication\UnitTestCalculator\obj\Debug\UnitTestCalculator.csproj.CopyComplete
+D:\Nika\ExcelApplication\UnitTestCalculator\obj\Debug\UnitTestCalculator.dll
+D:\Nika\ExcelApplication\UnitTestCalculator\obj\Debug\UnitTestCalculator.pdb
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\UnitTestCalculator.dll
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\UnitTestCalculator.pdb
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\ExcelApplication.exe
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\Antlr4.Runtime.dll
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\ExcelApplication.pdb
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\ExcelApplication.exe.config
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\bin\Debug\Antlr4.Runtime.xml
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\obj\Debug\UnitTestCalculator.csproj.AssemblyReference.cache
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\obj\Debug\UnitTestCalculator.csproj.CoreCompileInputs.cache
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\obj\Debug\UnitTestCalculator.csproj.CopyComplete
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\obj\Debug\UnitTestCalculator.dll
+D:\!!!\2 курс\ООП\ExcelApplication\UnitTestCalculator\obj\Debug\UnitTestCalculator.pdb

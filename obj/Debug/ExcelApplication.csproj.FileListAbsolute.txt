@@ -1,0 +1,24 @@
+D:\Nika\ExcelApplication\bin\Debug\ExcelApplication.exe.config
+D:\Nika\ExcelApplication\bin\Debug\ExcelApplication.exe
+D:\Nika\ExcelApplication\bin\Debug\ExcelApplication.pdb
+D:\Nika\ExcelApplication\bin\Debug\Antlr4.Runtime.dll
+D:\Nika\ExcelApplication\bin\Debug\Antlr4.Runtime.xml
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.csproj.AssemblyReference.cache
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationLexer.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationParser.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationListener.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationBaseListener.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationVisitor.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplicationBaseVisitor.cs
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.ExcelPage.resources
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.Properties.Resources.resources
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.csproj.GenerateResource.cache
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.csproj.CoreCompileInputs.cache
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.csproj.CopyComplete
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.exe
+D:\Nika\ExcelApplication\obj\Debug\ExcelApplication.pdb
+D:\!!!\2 курс\ООП\ExcelApplication\obj\Debug\ExcelApplication.csproj.AssemblyReference.cache
+D:\!!!\2 курс\ООП\ExcelApplication\obj\Debug\ExcelApplication.csproj.SuggestedBindingRedirects.cache
+D:\!!!\2 курс\ООП\ExcelApplication\obj\Debug\ExcelApplication.exe
+D:\!!!\2 курс\ООП\ExcelApplication\obj\Debug\ExcelApplication.pdb
